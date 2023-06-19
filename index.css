@@ -1,0 +1,19 @@
+.image{
+    height: 8.5rem;
+    margin-left: -12px;
+    margin-top: 4px;
+}
+
+.headerr{
+    background-color: rgb(113, 81, 113);
+    height: 140px;
+}
+
+.headerr-2{
+    height: 30px;
+}
+
+.header-words{
+    color: white;
+    text-decoration: none;
+}
