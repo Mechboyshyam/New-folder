@@ -1,7 +1,8 @@
 .image{
-    height: 8.5rem;
+    height: 9rem;
     margin-left: -12px;
-    margin-top: 4px;
+    margin-top: 1px;
+    padding-bottom: 5px;
 }
 
 .headerr{
@@ -16,4 +17,10 @@
 .header-words{
     color: white;
     text-decoration: none;
+}
+
+.header-words:hover{
+    color: white;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    font-size:larger;
 }
